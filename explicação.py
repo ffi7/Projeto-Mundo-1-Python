@@ -1,6 +1,5 @@
 '''
-Este será um projeto com o objetivo de colocar todos os conteudos(Mundo 1) do curso de Python do Curso em Vidéo lecionado pelo Gustavo Guanabara em um so local e mais algumas coisinhas que achei interresantes.
-Este codigo foi feito no VScode.
+Este codigo foi feito no VSCode
 Usei o chat GPT e a Luri(IA da Alura) para me ajudar a construir esse projeto, tirei duvidas e usei eles para pesquisar modulos, comparei a resposta deles e procurei a melhor opção.
 Funcionará como uma calculadora(com 3 operações) que relacionara as 3 operações com o nome do usuario se assim ele querer.
 Modulos/Blibiotecas, entre [] está aonde eu tirei o modulo:
